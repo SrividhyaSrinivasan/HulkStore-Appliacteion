@@ -1,1 +1,1 @@
-# HulkStore-Appliacteion
+# HulkStore-Application
